@@ -1,10 +1,6 @@
 # awesome-resources
+# :goat::lion::elephant::llama::unicorn:
 
-# RHEL8
-Here is some notes that i took from following book [RHCSA by Sander Van Vugt](https://www.amazon.de/Red-Rhcsa-Cert-Guide-Certification/dp/0135938139)
-
-
-## Some links to follow
 ### Reading list
 * [High Scalability](http://highscalability.com/)
 * [HackerNews](https://news.ycombinator.com/)
