@@ -37,8 +37,9 @@
 * [Best git practice](https://sethrobertson.github.io/GitBestPractices/)
 * [Build ur own xfce](https://docs.xfce.org/xfce/building)
 
-### GO
+### GO and languages
 * [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+* [Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 
 ### Awesome repos
 * [nice](https://reposhub.com/)
