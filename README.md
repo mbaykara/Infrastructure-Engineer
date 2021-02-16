@@ -24,6 +24,7 @@
 * [containerize Java applications without Dockerfile/Dockerfile](https://github.com/GoogleContainerTools/jib)
 * [distroless images via Google](https://github.com/GoogleContainerTools/distroless)
 * [Cloud/Go/Container related blogs](https://ops.tips/blog/)
+* [Zombie reaping problem in Containers](https://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/)
 
 ### Linux
 * [Linux deep](http://www.yolinux.com/TUTORIALS/LinuxTutorialSysAdmin.html)
