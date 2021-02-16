@@ -23,6 +23,7 @@
 * [containerize GO application without Docker via ko](https://github.com/google/ko)
 * [containerize Java applications without Dockerfile/Dockerfile](https://github.com/GoogleContainerTools/jib)
 * [distroless images via Google](https://github.com/GoogleContainerTools/distroless)
+* [Cloud/Go/Container related blogs](https://ops.tips/blog/)
 
 ### Linux
 * [Linux deep](http://www.yolinux.com/TUTORIALS/LinuxTutorialSysAdmin.html)
@@ -34,6 +35,9 @@
 * [free for dev](https://free-for.dev/#/?id=ci-and-cd)
 * [Best git practice](https://sethrobertson.github.io/GitBestPractices/)
 * [Build ur own xfce](https://docs.xfce.org/xfce/building)
+
+### GO
+* [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 
 ### Awesome repos
 * [nice](https://reposhub.com/)
