@@ -17,7 +17,7 @@ Here is some notes that i took from following book [RHCSA by Sander Van Vugt](ht
 * [Minimal Safe Bash](https://betterdev.blog/minimal-safe-bash-script-template)
 
 ### Contianer
-* [Containers](https://www.ianlewis.org/en)
+* [Understaning Containers](https://www.ianlewis.org/en)
 * [Dive in Docker layer](https://github.com/wagoodman/dive)
 * [Container Network](https://iximiuz.com/en/posts/container-networking-is-simple/)
 * [etcd K8S](https://www.mgasch.com/2021/01/listwatch-part-1/)
