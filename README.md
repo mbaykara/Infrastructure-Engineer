@@ -16,7 +16,6 @@
 * [Understaning Containers](https://www.ianlewis.org/en)
 * [Dive in Docker layer](https://github.com/wagoodman/dive)
 * [Container Network](https://iximiuz.com/en/posts/container-networking-is-simple/)
-* [etcd K8S](https://www.mgasch.com/2021/01/listwatch-part-1/)
 * [Container Security](https://www.youtube.com/watch?v=lbJK28whV1Q)
 * [Root your Docker host in 10 seconds](https://www.electricmonk.nl/log/2017/09/30/root-your-docker-host-in-10-seconds-for-fun-and-profit/)
 * [Best Practice Dockerfile via hadolint](https://github.com/hadolint/hadolint)
@@ -36,6 +35,10 @@
 * [free for dev](https://free-for.dev/#/?id=ci-and-cd)
 * [Best git practice](https://sethrobertson.github.io/GitBestPractices/)
 * [Build ur own xfce](https://docs.xfce.org/xfce/building)
+* 
+### Kubernetes ☸
+* [K8S yaml files and helm chart linter](https://github.com/stackrox/kube-linter)
+* [etcd K8S](https://www.mgasch.com/2021/01/listwatch-part-1/)
 
 ### GO and languages
 * [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
