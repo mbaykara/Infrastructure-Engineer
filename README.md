@@ -9,7 +9,7 @@
 
 
 ### Bash links
-* [Advanced Bash-Scripting](https://tldp.org/LDP/abs/html/index.html)
+* [Advanced Bash Scripting](https://tldp.org/LDP/abs/html/index.html)
 * [Minimal Safe Bash](https://betterdev.blog/minimal-safe-bash-script-template)
 
 ### Contianer
