@@ -11,6 +11,7 @@
 ### Bash links
 * [Advanced Bash Scripting](https://tldp.org/LDP/abs/html/index.html)
 * [Minimal Safe Bash](https://betterdev.blog/minimal-safe-bash-script-template)
+* [Bash in Advance Video](https://www.youtube.com/watch?v=emhouufDnB4)
 
 ### Contianer
 * [Understaning Containers](https://www.ianlewis.org/en)
