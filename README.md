@@ -5,7 +5,7 @@
 * [High Scalability](http://highscalability.com/)
 * [HackerNews](https://news.ycombinator.com/)
 * [InfoQ](https://www.infoq.com/)
-* 
+* [Papers we love](https://github.com/papers-we-love/papers-we-love)
 
 
 ### Bash links
