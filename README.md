@@ -40,7 +40,7 @@
 ### Kubernetes ☸
 * [K8S yaml files and helm chart linter](https://github.com/stackrox/kube-linter)
 * [etcd K8S](https://www.mgasch.com/2021/01/listwatch-part-1/)
-
+* [Kubernetes Failure Stories](https://k8s.af/)
 ### GO and languages
 * [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
