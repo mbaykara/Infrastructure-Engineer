@@ -36,7 +36,7 @@
 * [free for dev](https://free-for.dev/#/?id=ci-and-cd)
 * [Best git practice](https://sethrobertson.github.io/GitBestPractices/)
 * [Build ur own xfce](https://docs.xfce.org/xfce/building)
-* 
+* [Useless bash practices](http://porkmail.org/era/unix/award.html)
 ### Kubernetes ☸
 * [K8S yaml files and helm chart linter](https://github.com/stackrox/kube-linter)
 * [etcd K8S](https://www.mgasch.com/2021/01/listwatch-part-1/)
