@@ -2,6 +2,7 @@
 # :goat::lion::elephant::llama::unicorn:
 
 ### Reading list
+* [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards/)
 * [High Scalability](http://highscalability.com/)
 * [HackerNews](https://news.ycombinator.com/)
 * [InfoQ](https://www.infoq.com/)
