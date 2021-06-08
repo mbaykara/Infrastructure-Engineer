@@ -20,6 +20,7 @@
 * [Kubernetes Failure Stories](https://k8s.af/)
 * [K8S runtime security project -> Falco](https://falco.org/)  Provides runtime security to enforce policy across all your Kubernetes clusters. For example, one of the policies will inform you based on users performing an "exec" command against a container.
 * [kured - Kubernetes Reboot Daemon](https://github.com/weaveworks/kured) Kured - Kured will assist with rebooting the nodes when needed as part of the shared responsibility between customer and Microsoft for the worker nodes. It will cordon and drain the worker nodes one by one, in an orderly fashion.
+* [Secret Management](https://github.com/mozilla/sops)
 
 ### Contianer
 * [Understaning Containers](https://www.ianlewis.org/en)
