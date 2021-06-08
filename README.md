@@ -14,6 +14,13 @@
 * [Minimal Safe Bash](https://betterdev.blog/minimal-safe-bash-script-template)
 * [Bash in Advance Video](https://www.youtube.com/watch?v=emhouufDnB4)
 
+### Kubernetes ☸
+* [K8S yaml files and helm chart linter](https://github.com/stackrox/kube-linter)
+* [etcd K8S](https://www.mgasch.com/2021/01/listwatch-part-1/)
+* [Kubernetes Failure Stories](https://k8s.af/)
+* [K8S runtime security project -> Falco](https://falco.org/)
+* [kured - Kubernetes Reboot Daemon](https://github.com/weaveworks/kured)
+
 ### Contianer
 * [Understaning Containers](https://www.ianlewis.org/en)
 * [Dive in Docker layer](https://github.com/wagoodman/dive)
@@ -38,11 +45,7 @@
 * [Best git practice](https://sethrobertson.github.io/GitBestPractices/)
 * [Build ur own xfce](https://docs.xfce.org/xfce/building)
 * [Useless bash practices](http://porkmail.org/era/unix/award.html)
-### Kubernetes ☸
-* [K8S yaml files and helm chart linter](https://github.com/stackrox/kube-linter)
-* [etcd K8S](https://www.mgasch.com/2021/01/listwatch-part-1/)
-* [Kubernetes Failure Stories](https://k8s.af/)
-* [K8S runtime security project -> Falco](https://falco.org/)
+
 ### GO and languages
 * [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
