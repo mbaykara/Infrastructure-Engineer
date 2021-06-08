@@ -51,4 +51,4 @@
 * [Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 
 ### Awesome repos
-* [nice](https://reposhub.com/)
+* [A curated list of awesome github repositories](https://reposhub.com/)
