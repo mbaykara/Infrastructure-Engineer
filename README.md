@@ -23,6 +23,7 @@
 * [Secret Management](https://github.com/mozilla/sops)
 * [Kube-score](https://github.com/zegl/kube-score) Performs static code analysis of your Kubernetes object 
 * [Kubeval](https://github.com/instrumenta/kubeval/) K8S yaml validation 
+* [Kubesec](https://github.com/controlplaneio/kubesec) Kubernetes Security
 
 ### Contianer
 * [Understaning Containers](https://www.ianlewis.org/en)
