@@ -14,5 +14,5 @@ john elay means danny osman
  ```
 #### Delete a dir recusively
 ```
-find . find . -type d -iname <DirName> -exec rm -rf "{}" \;^C
+find . -type d -iname <DirName> -exec rm -rf "{}" \;
 ```
