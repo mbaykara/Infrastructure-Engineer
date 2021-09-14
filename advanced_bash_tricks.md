@@ -12,3 +12,7 @@ john elay means danny osman
 ```
  if [ -n "$(echo $SEEKED_NAME | grep -lE 'feature|release|main')" ]; then echo  "VALID BRANCH NAME"; else echo -e "\033[4;31m USE ONLY ALLOWED PREFIXES AS BRANCH NAME see '$ALLOWED_PREFIXES' "; exit 1; fi;
  ```
+#### Delete a dir recusively
+```
+find . find . -type d -iname <DirName> -exec rm -rf "{}" \;^C
+```
