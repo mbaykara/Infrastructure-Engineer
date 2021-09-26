@@ -19,3 +19,13 @@ Placeholder	Value
  ```
 git log -E -i --grep 'change' #searching commits contains change
  ```
+### 4 Unstage Files
+ ```
+ git config --global alias.unstage 'reset'
+ ```
+ ### 5 Undoing a Commit
+  ``` 
+  git config --global alias.uncommit 'reset --soft HEAD^'
+  ```
+  ## Danger Zone
+  #### 1 
