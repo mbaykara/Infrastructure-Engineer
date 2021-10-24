@@ -13,6 +13,8 @@
 * [Advanced Bash Scripting](https://tldp.org/LDP/abs/html/index.html)
 * [Minimal Safe Bash](https://betterdev.blog/minimal-safe-bash-script-template)
 * [Bash in Advance Video](https://www.youtube.com/watch?v=emhouufDnB4)
+### CICD
+* [Continuous profiling for analysis of CPU, memory usage over time](https://github.com/parca-dev/parca)
 
 ### Kubernetes ☸
 * [K8S yaml files and helm chart linter](https://github.com/stackrox/kube-linter)
@@ -54,6 +56,7 @@
 ### GO and languages
 * [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
+* 
 
 ### Awesome repos
 * [A curated list of awesome github repositories](https://reposhub.com/)
