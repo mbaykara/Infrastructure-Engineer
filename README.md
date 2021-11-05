@@ -26,6 +26,7 @@
 * [Kube-score](https://github.com/zegl/kube-score) Performs static code analysis of your Kubernetes object 
 * [Kubeval](https://github.com/instrumenta/kubeval/) K8S yaml validation 
 * [Kubesec](https://github.com/controlplaneio/kubesec) Kubernetes Security
+* [Velero - Backup/Restore k8s cluster](https://github.com/vmware-tanzu/velero)
 
 ### Contianer
 * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
