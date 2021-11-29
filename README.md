@@ -15,6 +15,7 @@
 * [Minimal Safe Bash](https://betterdev.blog/minimal-safe-bash-script-template)
 * [Bash in Advance Video](https://www.youtube.com/watch?v=emhouufDnB4)
 * [How to write idempotent Bash scripts](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/)
+* [Shape your CLI](https://bashrcgenerator.com/)
 
 ### CICD
 * [Continuous profiling for analysis of CPU, memory usage over time](https://github.com/parca-dev/parca)
