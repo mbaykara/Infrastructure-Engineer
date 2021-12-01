@@ -16,6 +16,7 @@
 * [Bash in Advance Video](https://www.youtube.com/watch?v=emhouufDnB4)
 * [How to write idempotent Bash scripts](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/)
 * [Shape your CLI](https://bashrcgenerator.com/)
+* [Best Practices](https://github.com/bregman-arie/devops-resources/blob/master/resources/bash.md)
 
 ### CICD
 * [Continuous profiling for analysis of CPU, memory usage over time](https://github.com/parca-dev/parca)
@@ -31,6 +32,7 @@
 * [Kubeval](https://github.com/instrumenta/kubeval/) K8S yaml validation 
 * [Kubesec](https://github.com/controlplaneio/kubesec) Kubernetes Security
 * [Velero - Backup/Restore k8s cluster](https://github.com/vmware-tanzu/velero)
+* [Troubleshoot K8S](https://troubleshoot.sh/)
 
 ### Contianer
 * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
@@ -57,7 +59,10 @@
 * [Best git practice](https://sethrobertson.github.io/GitBestPractices/)
 * [Build ur own xfce](https://docs.xfce.org/xfce/building)
 * [Useless bash practices](http://porkmail.org/era/unix/award.html)
+* [Linux Learning](https://github.com/bregman-arie/devops-resources/blob/master/resources/linux.md)
 
+### Networking
+[Start Networking](https://github.com/bregman-arie/devops-resources/blob/master/resources/network.md)
 ### GO and languages
 * [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
