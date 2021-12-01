@@ -18,8 +18,9 @@
 * [Shape your CLI](https://bashrcgenerator.com/)
 * [Best Practices](https://github.com/bregman-arie/devops-resources/blob/master/resources/bash.md)
 
-### CICD
+### CICD Infrastructure 
 * [Continuous profiling for analysis of CPU, memory usage over time](https://github.com/parca-dev/parca)
+* [Terraform](https://project-awesome.org/shuaibiyy/awesome-terraform)
 
 ### Kubernetes ☸
 * [K8S yaml files and helm chart linter](https://github.com/stackrox/kube-linter)
