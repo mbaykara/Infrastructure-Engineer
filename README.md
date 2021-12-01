@@ -21,6 +21,7 @@
 ### CICD Infrastructure 
 * [Continuous profiling for analysis of CPU, memory usage over time](https://github.com/parca-dev/parca)
 * [Terraform](https://project-awesome.org/shuaibiyy/awesome-terraform)
+* [GitLab CI Runner Monitoring](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter)
 
 ### Kubernetes ☸
 * [K8S yaml files and helm chart linter](https://github.com/stackrox/kube-linter)
