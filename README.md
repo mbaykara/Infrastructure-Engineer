@@ -35,6 +35,7 @@
 * [Kubesec](https://github.com/controlplaneio/kubesec) Kubernetes Security
 * [Velero - Backup/Restore k8s cluster](https://github.com/vmware-tanzu/velero)
 * [Troubleshoot K8S](https://troubleshoot.sh/)
+* [Linkerd](https://buoyant.io/service-mesh-manifesto/)
 
 ### Contianer
 * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
