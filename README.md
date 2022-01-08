@@ -52,6 +52,7 @@
 * [Zombie reaping problem in Containers](https://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/)
 
 ### Linux
+* [Hardening Linux Checklist](https://github.com/trimstray/linux-hardening-checklist)
 * [Linux deep](http://www.yolinux.com/TUTORIALS/LinuxTutorialSysAdmin.html)
 * [Linux from scratch](http://www.linuxfromscratch.org/lfs/view/10.0/)
 * [Cgroups](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/index)
