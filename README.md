@@ -70,6 +70,7 @@
 ### GO and languages
 * [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
+* [TLS Scanning](https://testssl.sh/)
 * 
 
 ### Awesome repos
