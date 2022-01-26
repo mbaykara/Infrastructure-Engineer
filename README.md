@@ -66,11 +66,12 @@
 * [Linux Learning](https://github.com/bregman-arie/devops-resources/blob/master/resources/linux.md)
 
 ### Networking
-[Start Networking](https://github.com/bregman-arie/devops-resources/blob/master/resources/network.md)
+* [Start Networking](https://github.com/bregman-arie/devops-resources/blob/master/resources/network.md)
+* [TLS Scanning](https://testssl.sh/)
 ### GO and languages
 * [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
-* [TLS Scanning](https://testssl.sh/)
+
 * 
 
 ### Awesome repos
