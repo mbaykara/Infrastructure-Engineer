@@ -64,6 +64,7 @@
 * [Build ur own xfce](https://docs.xfce.org/xfce/building)
 * [Useless bash practices](http://porkmail.org/era/unix/award.html)
 * [Linux Learning](https://github.com/bregman-arie/devops-resources/blob/master/resources/linux.md)
+* [Systemd By Example](https://systemd-by-example.com/)
 
 ### Networking
 * [Start Networking](https://github.com/bregman-arie/devops-resources/blob/master/resources/network.md)
