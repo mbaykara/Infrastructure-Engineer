@@ -18,6 +18,7 @@
 * [How to write idempotent Bash scripts](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/)
 * [Shape your CLI](https://bashrcgenerator.com/)
 * [Best Practices](https://github.com/bregman-arie/devops-resources/blob/master/resources/bash.md)
+* [Explain every command in your script](https://explainshell.com/)
 
 ### CICD Infrastructure 
 * [Continuous profiling for analysis of CPU, memory usage over time](https://github.com/parca-dev/parca)
