@@ -8,6 +8,7 @@
 * [InfoQ](https://www.infoq.com/)
 * [Papers we love](https://github.com/papers-we-love/papers-we-love)
 * [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
+* [Intro to Automata Theory](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2004-05/automata-theory/basics.html)
 
 
 ### Bash links
