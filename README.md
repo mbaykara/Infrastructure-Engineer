@@ -1,5 +1,5 @@
 # awesome-resources
-# :goat::lion::elephant::llama::unicorn:
+# :goat::lion::elephant::llama::unicorn::dog::leopard::monkey::camel::horse::dolphin::cat:
 
 ### Reading list
 * [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards/)
@@ -26,7 +26,7 @@
 * [Terraform](https://project-awesome.org/shuaibiyy/awesome-terraform)
 * [GitLab CI Runner Monitoring](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter)
 
-### Kubernetes ☸
+### Kubernetes ☸ 
 * [K8S yaml files and helm chart linter](https://github.com/stackrox/kube-linter)
 * [etcd K8S](https://www.mgasch.com/2021/01/listwatch-part-1/)
 * [Kubernetes Failure Stories](https://k8s.af/)
