@@ -12,6 +12,7 @@
 
 
 ### Bash links
+* [Everything about Bash- Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
 * [Advanced Bash Scripting](https://tldp.org/LDP/abs/html/index.html)
 * [Minimal Safe Bash](https://betterdev.blog/minimal-safe-bash-script-template)
 * [Bash in Advance Video](https://www.youtube.com/watch?v=emhouufDnB4)
