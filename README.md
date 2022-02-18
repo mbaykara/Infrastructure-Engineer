@@ -40,6 +40,7 @@
 * [Velero - Backup/Restore k8s cluster](https://github.com/vmware-tanzu/velero)
 * [Troubleshoot K8S](https://troubleshoot.sh/)
 * [Service Mesh 101 =>Linkerd](https://buoyant.io/service-mesh-manifesto/)
+* [Show ContainerImages in Cluster](https://github.com/chenjiandongx/kubectl-images)
 
 ### Contianer
 * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
