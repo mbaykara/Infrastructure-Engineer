@@ -83,6 +83,7 @@ Browser Networking](https://hpbn.co/?utm_source=igvita&utm_medium=referral&utm_c
 ### GO and languages
 * [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
+* [Cryto Challenges](https://cryptopals.com/)
 
 * 
 
