@@ -27,6 +27,7 @@
 * [GitLab CI Runner Monitoring](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter)
 * [Git Diff Fancy](https://github.com/dandavison/delta)
 
+
 ### Kubernetes ☸ 
 * [K8S yaml files and helm chart linter](https://github.com/stackrox/kube-linter)
 * [etcd K8S](https://www.mgasch.com/2021/01/listwatch-part-1/)
@@ -85,7 +86,9 @@ Browser Networking](https://hpbn.co/?utm_source=igvita&utm_medium=referral&utm_c
 * [Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 * [Cryto Challenges](https://cryptopals.com/)
 
-* 
+### Monitoring
+* [Discussion about Tools on HN](https://news.ycombinator.com/item?id=21995942)
+* [How Reddit Infra Engineers Works- QA](https://www.reddit.com/r/kubernetes/comments/ebxrkp/we_are_the_reddit_infrastructure_team_ama_about/)
 
 ### Awesome repos
 * [A curated list of awesome github repositories](https://reposhub.com/)
