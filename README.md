@@ -9,6 +9,7 @@
 * [Papers we love](https://github.com/papers-we-love/papers-we-love)
 * [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
 * [Intro to Automata Theory](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2004-05/automata-theory/basics.html)
+* [Google Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
 
 
 ### Bash links
