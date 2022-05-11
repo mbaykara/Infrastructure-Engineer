@@ -12,6 +12,7 @@
 * [Google Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
 
 
+
 ### Bash links
 * [Everything about Bash- Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
 * [Advanced Bash Scripting](https://tldp.org/LDP/abs/html/index.html)
@@ -82,6 +83,8 @@
 Browser Networking](https://hpbn.co/?utm_source=igvita&utm_medium=referral&utm_campaign=igvita-homepage)
 * [Chiper Suite Check](https://ciphersuite.info/)
 * [Networking 101](https://hpbn.co/transport-layer-security-tls/#enable-1-rtt-tls-handshakes)
+* [Network Warrior](https://doc.lagout.org/network/Network%20Warrior%2C%202nd%20Edition.pdf)
+* [Network Warrior](https://github.com/InspectorDidi/Hacking-Books/blob/master/Network%20Warrior%2C%202nd%20Edition.pdf)
 
 ### GO and languages
 * [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
