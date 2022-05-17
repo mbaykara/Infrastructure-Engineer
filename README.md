@@ -45,6 +45,7 @@
 * [Service Mesh 101 =>Linkerd](https://buoyant.io/service-mesh-manifesto/)
 * [Show ContainerImages in Cluster](https://github.com/chenjiandongx/kubectl-images)
 * [Scan images vulnerability in Cluster](https://github.com/cisco-open/kubei)
+* [Dependency tracker](https://github.com/renovatebot/renovate)
 
 ### Contianer
 * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
