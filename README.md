@@ -46,6 +46,7 @@
 * [Show ContainerImages in Cluster](https://github.com/chenjiandongx/kubectl-images)
 * [Scan images vulnerability in Cluster](https://github.com/cisco-open/kubei)
 * [Dependency tracker](https://github.com/renovatebot/renovate)
+* [CKS](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 
 ### Contianer
 * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
