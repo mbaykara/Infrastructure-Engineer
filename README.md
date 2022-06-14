@@ -48,6 +48,7 @@
 * [Scan images vulnerability in Cluster](https://github.com/cisco-open/kubei)
 * [Dependency tracker](https://github.com/renovatebot/renovate)
 * [CKS](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
+* [kubecolor -> colorize kubectl output](https://github.com/hidetatz/kubecolor)
 * 
 
 ### Contianer
