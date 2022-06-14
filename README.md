@@ -28,6 +28,7 @@
 * [Terraform](https://project-awesome.org/shuaibiyy/awesome-terraform)
 * [GitLab CI Runner Monitoring](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter)
 * [Git Diff Fancy](https://github.com/dandavison/delta)
+* [Azure Resources to Terraform](https://github.com/Azure/aztfy)
 
 
 ### Kubernetes ☸ 
@@ -47,6 +48,7 @@
 * [Scan images vulnerability in Cluster](https://github.com/cisco-open/kubei)
 * [Dependency tracker](https://github.com/renovatebot/renovate)
 * [CKS](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
+* 
 
 ### Contianer
 * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
