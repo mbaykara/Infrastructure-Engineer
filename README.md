@@ -11,6 +11,7 @@
 * [Intro to Automata Theory](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2004-05/automata-theory/basics.html)
 * [Google Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
 
+* https://github.com/malgamves/CommunityWriterPrograms
 
 
 ### Bash links
