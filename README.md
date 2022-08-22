@@ -104,6 +104,7 @@ Browser Networking](https://hpbn.co/?utm_source=igvita&utm_medium=referral&utm_c
 
 ### Awesome repos
 * [A curated list of awesome github repositories](https://reposhub.com/)
+* [Keycloak rest api](https://documenter.getpostman.com/view/7294517/SzmfZHnd)
 
 ### Into the DevOps
 * [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
