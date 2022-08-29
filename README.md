@@ -50,7 +50,7 @@
 * [Dependency tracker](https://github.com/renovatebot/renovate)
 * [CKS](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 * [kubecolor -> colorize kubectl output](https://github.com/hidetatz/kubecolor)
-* 
+* [Tracing on Cluster] (https://docs.px.dev/installing-pixie/)
 
 ### Contianer
 * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
