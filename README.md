@@ -86,13 +86,15 @@
 
 ### Networking
 * [Start Networking](https://github.com/bregman-arie/devops-resources/blob/master/resources/network.md)
-* [TLS Scanning](https://testssl.sh/)
 * [High Performance
 Browser Networking](https://hpbn.co/?utm_source=igvita&utm_medium=referral&utm_campaign=igvita-homepage)
 * [Chiper Suite Check](https://ciphersuite.info/)
 * [Networking 101](https://hpbn.co/transport-layer-security-tls/#enable-1-rtt-tls-handshakes)
 * [Network Warrior](https://doc.lagout.org/network/Network%20Warrior%2C%202nd%20Edition.pdf)
 * [Network Warrior](https://github.com/InspectorDidi/Hacking-Books/blob/master/Network%20Warrior%2C%202nd%20Edition.pdf)
+
+### Security Tools
+* [Scanning Url via testssl](https://testssl.sh/)
 
 ### GO and languages
 * [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
