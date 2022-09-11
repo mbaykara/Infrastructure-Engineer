@@ -1,6 +1,7 @@
 # awesome-resources
 # :goat::lion::elephant::llama::unicorn::dog::leopard::monkey::camel::horse::dolphin::cat:
 
+## [Every Programmer Should know](https://github.com/mtdvio/every-programmer-should-know)
 ### Reading list
 * [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards/)
 * [High Scalability](http://highscalability.com/)
