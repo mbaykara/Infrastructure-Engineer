@@ -52,6 +52,9 @@
 * [Tracing on Cluster] (https://docs.px.dev/installing-pixie/)
 
 ### Contianer
+* [Minimal Docker Images Part-1](https://jpetazzo.github.io/2020/02/01/quest-minimal-docker-images-part-1/)
+* [Minimal Docker Images Part-2](https://jpetazzo.github.io/2020/03/01/quest-minimal-docker-images-part-2/)
+* [Minimal Docker Images Part-3](https://jpetazzo.github.io/2020/04/01/quest-minimal-docker-images-part-3/)
 * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
 * [Understaning Containers](https://www.ianlewis.org/en)
 * [Dive in Docker layer](https://github.com/wagoodman/dive)
@@ -64,6 +67,7 @@
 * [distroless images via Google](https://github.com/GoogleContainerTools/distroless)
 * [Cloud/Go/Container related blogs](https://ops.tips/blog/)
 * [Zombie reaping problem in Containers](https://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/)
+
 
 ### Linux
 * [Security](https://github.com/decalage2/awesome-security-hardening)
