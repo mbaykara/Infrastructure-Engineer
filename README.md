@@ -50,6 +50,8 @@
 * [CKS](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 * [kubecolor -> colorize kubectl output](https://github.com/hidetatz/kubecolor)
 * [Tracing on Cluster] (https://docs.px.dev/installing-pixie/)
+* [Kubernetes on Limit ] (https://github.com/kubernetes/community/blob/master/sig-scalability/configs-and-limits/thresholds.md)
+
 
 ### Contianer
 * [Minimal Docker Images Part-1](https://jpetazzo.github.io/2020/02/01/quest-minimal-docker-images-part-1/)
