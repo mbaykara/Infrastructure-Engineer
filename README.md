@@ -100,6 +100,7 @@ Browser Networking](https://hpbn.co/?utm_source=igvita&utm_medium=referral&utm_c
 * [Networking 101](https://hpbn.co/transport-layer-security-tls/#enable-1-rtt-tls-handshakes)
 * [Network Warrior](https://doc.lagout.org/network/Network%20Warrior%2C%202nd%20Edition.pdf)
 * [Network Warrior](https://github.com/InspectorDidi/Hacking-Books/blob/master/Network%20Warrior%2C%202nd%20Edition.pdf)
+* [Cloud Native Networking](https://networking.cloud-native-principles.org/cloud-native-principles)
 
 ### Security Tools
 * [Scanning Url via testssl](https://testssl.sh/)
