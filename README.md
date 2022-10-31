@@ -89,7 +89,8 @@
 * [Linux Learning](https://github.com/bregman-arie/devops-resources/blob/master/resources/linux.md)
 * [Systemd By Example](https://systemd-by-example.com/)
 * [StepCLI- OpenSSL tool](https://smallstep.com/docs/step-cli)
-* [Bash in bestway](https://devhints.io/bash) 
+* [Bash in bestway](https://devhints.io/bash)
+* [TLS cert for local dev](https://github.com/FiloSottile/mkcert)
 
 ### Networking
 * [Start Networking](https://github.com/bregman-arie/devops-resources/blob/master/resources/network.md)
