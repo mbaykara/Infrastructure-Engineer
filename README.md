@@ -12,6 +12,7 @@
 * [Intro to Automata Theory](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2004-05/automata-theory/basics.html)
 * [Google Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
 * https://github.com/malgamves/CommunityWriterPrograms
+* [Anatomy of SaaS Pricing](https://www.priceintelligently.com/hubfs/Price-Intelligently-SaaS-Pricing-Strategy.pdf)
 
 ### Bash links
 * [Everything about Bash- Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
