@@ -102,6 +102,7 @@ Browser Networking](https://hpbn.co/?utm_source=igvita&utm_medium=referral&utm_c
 * [Network Warrior](https://doc.lagout.org/network/Network%20Warrior%2C%202nd%20Edition.pdf)
 * [Network Warrior](https://github.com/InspectorDidi/Hacking-Books/blob/master/Network%20Warrior%2C%202nd%20Edition.pdf)
 * [Cloud Native Networking](https://networking.cloud-native-principles.org/cloud-native-principles)
+* [K8S networking consepts](https://www.youtube.com/watch?v=J1VbZR7j4sI&list=PLoWxE_5hnZUZMWrEON3wxMBoIZvweGeiq)
 
 ### Security Tools
 * [Scanning Url via testssl](https://testssl.sh/)
