@@ -1,7 +1,6 @@
 # awesome-resources
 # :goat::lion::elephant::llama::unicorn::dog::leopard::monkey::camel::horse::dolphin::cat:
 
-## [Every Programmer Should know](https://github.com/mtdvio/every-programmer-should-know)
 ### Reading list
 * [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards/)
 * [High Scalability](http://highscalability.com/)
@@ -14,6 +13,7 @@
 * https://github.com/malgamves/CommunityWriterPrograms
 * [Anatomy of SaaS Pricing](https://www.priceintelligently.com/hubfs/Price-Intelligently-SaaS-Pricing-Strategy.pdf)
 * [Learning Crypto](https://cryptopals.com/)
+* [Every Programmer Should know](https://github.com/mtdvio/every-programmer-should-know)
 
 ### Bash links
 * [Everything about Bash- Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
