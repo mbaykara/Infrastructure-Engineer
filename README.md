@@ -24,6 +24,7 @@
 * [Shape your CLI](https://bashrcgenerator.com/)
 * [Best Practices](https://github.com/bregman-arie/devops-resources/blob/master/resources/bash.md)
 * [Explain every command in your script](https://explainshell.com/)
+* [The Art of CLI](https://github.com/jlevy/the-art-of-command-line)
 
 ### CICD Infrastructure 
 * [Continuous profiling for analysis of CPU, memory usage over time](https://github.com/parca-dev/parca)
