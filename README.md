@@ -55,7 +55,7 @@
 * [Tracing on Cluster] (https://docs.px.dev/installing-pixie/)
 * [Kubernetes on Limit ] (https://github.com/kubernetes/community/blob/master/sig-scalability/configs-and-limits/thresholds.md)
 * [kOps Secure K8S Cluster] (https://kops.sigs.k8s.io/)
-
+* [Kubernetes-based Event Driven Autoscaling](https://github.com/kedacore/keda)
 
 
 ### Contianer
