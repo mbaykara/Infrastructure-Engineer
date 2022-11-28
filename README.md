@@ -52,9 +52,9 @@
 * [Dependency tracker](https://github.com/renovatebot/renovate)
 * [CKS](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 * [kubecolor -> colorize kubectl output](https://github.com/hidetatz/kubecolor)
-* [Tracing on Cluster] (https://docs.px.dev/installing-pixie/)
-* [Kubernetes on Limit ] (https://github.com/kubernetes/community/blob/master/sig-scalability/configs-and-limits/thresholds.md)
-* [kOps Secure K8S Cluster] (https://kops.sigs.k8s.io/)
+* [Tracing on Cluster](https://docs.px.dev/installing-pixie/)
+* [Kubernetes on Limit ](https://github.com/kubernetes/community/blob/master/sig-scalability/configs-and-limits/thresholds.md)
+* [kOps Secure K8S Cluster](https://kops.sigs.k8s.io/)
 * [Kubernetes-based Event Driven Autoscaling](https://github.com/kedacore/keda)
 
 
@@ -72,7 +72,7 @@
 * [containerize GO application without Docker via ko](https://github.com/google/ko)
 * [containerize Java applications without Dockerfile/Dockerfile](https://github.com/GoogleContainerTools/jib)
 * [distroless images via Google](https://github.com/GoogleContainerTools/distroless)
-* [Cloud/Go/Container related blogs](https://ops.tips/blog/)
+* [Cloud Go Container related blogs](https://ops.tips/blog)
 * [Zombie reaping problem in Containers](https://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/)
 
 
