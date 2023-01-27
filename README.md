@@ -75,6 +75,8 @@
 * [Cloud Go Container related blogs](https://ops.tips/blog)
 * [Zombie reaping problem in Containers](https://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/)
 
+### docker and Co
+* [Docker compose samples](https://github.com/docker/awesome-compose)
 
 ### Linux
 * [Security](https://github.com/decalage2/awesome-security-hardening)
