@@ -32,6 +32,7 @@
 * [GitLab CI Runner Monitoring](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter)
 * [Git Diff Fancy](https://github.com/dandavison/delta)
 * [Azure Resources to Terraform](https://github.com/Azure/aztfy)
+* [Git Release Flow](http://releaseflow.org/)
 
 
 ### Kubernetes ☸ 
