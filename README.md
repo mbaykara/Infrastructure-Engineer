@@ -40,12 +40,12 @@
 * [K8S yaml files and helm chart linter](https://github.com/stackrox/kube-linter)
 * [etcd K8S](https://www.mgasch.com/2021/01/listwatch-part-1/)
 * [Kubernetes Failure Stories](https://k8s.af/)
-* [K8S runtime security project -> Falco](https://falco.org/)  Provides runtime security to enforce policy across all your Kubernetes clusters. For example, one of the policies will inform you based on users performing an "exec" command against a container.
-* [kured - Kubernetes Reboot Daemon](https://github.com/weaveworks/kured) Kured - Kured will assist with rebooting the nodes when needed as part of the shared responsibility between customer and Microsoft for the worker nodes. It will cordon and drain the worker nodes one by one, in an orderly fashion.
+* [K8S runtime security project -> Falco](https://falco.org/)
+* [kured - Kubernetes Reboot Daemon](https://github.com/weaveworks/kured)
 * [Secret Management](https://github.com/mozilla/sops)
-* [Kube-score](https://github.com/zegl/kube-score) Performs static code analysis of your Kubernetes object 
-* [Kubeval](https://github.com/instrumenta/kubeval/) K8S yaml validation 
-* [Kubesec](https://github.com/controlplaneio/kubesec) Kubernetes Security
+* [Kube-score for static analysis](https://github.com/zegl/kube-score) 
+* [Kubeval](https://github.com/instrumenta/kubeval/)
+* [Kubesec](https://github.com/controlplaneio/kubesec)
 * [Velero - Backup/Restore k8s cluster](https://github.com/vmware-tanzu/velero)
 * [Troubleshoot K8S](https://troubleshoot.sh/)
 * [Service Mesh 101 =>Linkerd](https://buoyant.io/service-mesh-manifesto/)
