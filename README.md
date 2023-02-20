@@ -14,6 +14,7 @@
 * [Anatomy of SaaS Pricing](https://www.priceintelligently.com/hubfs/Price-Intelligently-SaaS-Pricing-Strategy.pdf)
 * [Learning Crypto](https://cryptopals.com/)
 * [Every Programmer Should know](https://github.com/mtdvio/every-programmer-should-know)
+* [How Email works](https://explained-from-first-principles.com/email/)
 
 ### Bash links
 * [Everything about Bash- Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
