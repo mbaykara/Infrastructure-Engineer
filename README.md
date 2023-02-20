@@ -118,7 +118,8 @@ Browser Networking](https://hpbn.co/?utm_source=igvita&utm_medium=referral&utm_c
 * [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 * [Cryto Challenges](https://cryptopals.com/)
-
+## Frontend
+* [Typescript](https://www.executeprogram.com/courses)
 ### Monitoring
 * [Discussion about Tools on HN](https://news.ycombinator.com/item?id=21995942)
 * [How Reddit Infra Engineers Works- QA](https://www.reddit.com/r/kubernetes/comments/ebxrkp/we_are_the_reddit_infrastructure_team_ama_about/)
