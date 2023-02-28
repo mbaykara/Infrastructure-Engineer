@@ -15,6 +15,7 @@
 * [Learning Crypto](https://cryptopals.com/)
 * [Every Programmer Should know](https://github.com/mtdvio/every-programmer-should-know)
 * [How Email works](https://explained-from-first-principles.com/email/)
+* [Hacker Browser(https://github.com/philc/vimium)
 
 ### Bash links
 * [Everything about Bash- Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
