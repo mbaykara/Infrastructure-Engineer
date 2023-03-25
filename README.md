@@ -1,6 +1,8 @@
 # awesome-resources
 # :goat::lion::elephant::llama::unicorn::dog::leopard::monkey::camel::horse::dolphin::cat:
 
+## [Gruntwork Production Check List](https://gruntwork.io/devops-checklist/#everything-you-need-to-do-before-you-go-live)
+
 ### Reading list
 * [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards/)
 * [High Scalability](http://highscalability.com/)
