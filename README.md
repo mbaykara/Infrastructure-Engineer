@@ -62,6 +62,8 @@
 * [kOps Secure K8S Cluster](https://kops.sigs.k8s.io/)
 * [Kubernetes-based Event Driven Autoscaling](https://github.com/kedacore/keda)
 
+### SRE Toolset
+* [Load Testing Tool K6](https://github.com/grafana/k6)
 
 ### Contianer
 * [Minimal Docker Images Part-1](https://jpetazzo.github.io/2020/02/01/quest-minimal-docker-images-part-1/)
