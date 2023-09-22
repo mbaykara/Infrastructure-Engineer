@@ -40,6 +40,7 @@
 
 
 ### Kubernetes ☸ 
+* [K8S API Observe](https://kube-api.ninja/)
 * [K8S yaml files and helm chart linter](https://github.com/stackrox/kube-linter)
 * [etcd K8S](https://www.mgasch.com/2021/01/listwatch-part-1/)
 * [Kubernetes Failure Stories](https://k8s.af/)
