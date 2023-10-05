@@ -19,6 +19,10 @@
 * [How Email works](https://explained-from-first-principles.com/email/)
 * [Hacker Browser(https://github.com/philc/vimium)
 
+### DevSecOps
+* [Introduction to Secure Coding Guide](https://developer.apple.com/library/archive/documentation/Security/Conceptual/SecureCodingGuide/Introduction.html)
+* 
+
 ### Bash links
 * [Everything about Bash- Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
 * [Advanced Bash Scripting](https://tldp.org/LDP/abs/html/index.html)
