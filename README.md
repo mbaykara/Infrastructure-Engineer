@@ -97,6 +97,7 @@
 * [Linux from scratch](http://www.linuxfromscratch.org/lfs/view/10.0/)
 * [Cgroups](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/index)
 * [VimGenius](http://www.vimgenius.com/lessons/vim-intro)
+* [Vim made easy](https://learnbyexample.gitbooks.io/vim-reference/content/Command_Line_mode.html#saving-changes)
 * [systemd](https://www.freedesktop.org/software/systemd/man/systemd.resource-control.html)
 * [Anatomy of Deb Package](https://www.joyfulbikeshedding.com/blog/2020-08-03-how-debian-packaging-works.html)
 * [free for dev](https://free-for.dev/#/?id=ci-and-cd)
@@ -108,6 +109,7 @@
 * [StepCLI- OpenSSL tool](https://smallstep.com/docs/step-cli)
 * [Bash in bestway](https://devhints.io/bash)
 * [TLS cert for local dev](https://github.com/FiloSottile/mkcert)
+
 
 ### Networking
 * [Start Networking](https://github.com/bregman-arie/devops-resources/blob/master/resources/network.md)
