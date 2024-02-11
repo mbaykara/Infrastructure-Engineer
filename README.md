@@ -19,6 +19,9 @@
 * [How Email works](https://explained-from-first-principles.com/email/)
 * [Hacker Browser(https://github.com/philc/vimium)
 
+### Distributed Systems
+* [Distributed systems reading list](https://ferd.ca/a-distributed-systems-reading-list.html)
+
 ### DevSecOps
 * [Introduction to Secure Coding Guide](https://developer.apple.com/library/archive/documentation/Security/Conceptual/SecureCodingGuide/Introduction.html)
 * 
