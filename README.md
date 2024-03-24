@@ -112,6 +112,7 @@
 * [StepCLI- OpenSSL tool](https://smallstep.com/docs/step-cli)
 * [Bash in bestway](https://devhints.io/bash)
 * [TLS cert for local dev](https://github.com/FiloSottile/mkcert)
+* [Linux Crisis Tool by Brendan Gregg](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 
 
 ### Networking
