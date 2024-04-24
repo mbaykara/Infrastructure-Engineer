@@ -22,6 +22,7 @@
 ### Distributed Systems
 * [Distributed systems reading list](https://ferd.ca/a-distributed-systems-reading-list.html)
 * [Reading list for Scalibility of Distributed Systems](https://github.com/binhnguyennus/awesome-scalability)
+* [Distributed systems in nutshell](https://ferd.ca/a-distributed-systems-reading-list.html)
 
 ### DevSecOps
 * [Introduction to Secure Coding Guide](https://developer.apple.com/library/archive/documentation/Security/Conceptual/SecureCodingGuide/Introduction.html)
