@@ -138,6 +138,7 @@ Browser Networking](https://hpbn.co/?utm_source=igvita&utm_medium=referral&utm_c
 * [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 * [Cryto Challenges](https://cryptopals.com/)
+* [Patterns in Go](https://github.com/tmrts/go-patterns/tree/master)
 ## Frontend
 * [Typescript](https://www.executeprogram.com/courses)
 ### Monitoring
