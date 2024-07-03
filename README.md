@@ -133,6 +133,7 @@ Browser Networking](https://hpbn.co/?utm_source=igvita&utm_medium=referral&utm_c
 * [Scanning Url via testssl](https://testssl.sh/)
 * [tls scanner](https://github.com/prbinu/tls-scan)
 * [RiseupVPN](https://riseup.net/en/vpn/linux)
+* [Hacking Tools](https://blog.intigriti.com/hackademy/hacking-tools/)
 
 ### GO and languages
 * [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
