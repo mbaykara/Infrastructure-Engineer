@@ -17,7 +17,7 @@
 * [Learning Crypto](https://cryptopals.com/)
 * [Every Programmer Should know](https://github.com/mtdvio/every-programmer-should-know)
 * [How Email works](https://explained-from-first-principles.com/email/)
-* [Hacker Browser(https://github.com/philc/vimium)
+* [Hacker Browser](https://github.com/philc/vimium)
 
 ### Distributed Systems
 * [Distributed systems reading list](https://ferd.ca/a-distributed-systems-reading-list.html)
