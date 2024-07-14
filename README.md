@@ -20,6 +20,7 @@
 * [Hacker Browser](https://github.com/philc/vimium)
 
 ### Distributed Systems
+* [Intro to the Distributed Systems](https://cse.buffalo.edu/~demirbas/CSE586/book.pdf)
 * [Distributed systems reading list](https://ferd.ca/a-distributed-systems-reading-list.html)
 * [Reading list for Scalibility of Distributed Systems](https://github.com/binhnguyennus/awesome-scalability)
 * [Distributed systems in nutshell](https://ferd.ca/a-distributed-systems-reading-list.html)
