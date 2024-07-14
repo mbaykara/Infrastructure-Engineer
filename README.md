@@ -24,6 +24,7 @@
 * [Reading list for Scalibility of Distributed Systems](https://github.com/binhnguyennus/awesome-scalability)
 * [Distributed systems in nutshell](https://ferd.ca/a-distributed-systems-reading-list.html)
 * [Learning From Borg and Omega and How we created Kubernetes](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf)
+* [Is not Just Scaling](https://brooker.co.za/blog/2024/06/04/scale.html)
 
 ### DevSecOps
 * [Introduction to Secure Coding Guide](https://developer.apple.com/library/archive/documentation/Security/Conceptual/SecureCodingGuide/Introduction.html)
